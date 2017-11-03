@@ -1,1 +1,4 @@
 print('hello')
+weekdays=['一','二','三']
+weekdays.insert(1,'五')
+weekdays
